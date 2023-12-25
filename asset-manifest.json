@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Landing-page/static/css/main.f3501d9e.css",
+    "main.js": "/Landing-page/static/js/main.e2386e80.js",
+    "static/js/787.8565aea6.chunk.js": "/Landing-page/static/js/787.8565aea6.chunk.js",
+    "static/media/m3m_google_location_page-0001.jpg": "/Landing-page/static/media/m3m_google_location_page-0001.408a8d835acdd1bd03d0.jpg",
+    "static/media/m3m_epitome_luxury_page-0001.jpg": "/Landing-page/static/media/m3m_epitome_luxury_page-0001.87e4233fa550fb9f7fa7.jpg",
+    "static/media/m3m_facets_page-0001.jpg": "/Landing-page/static/media/m3m_facets_page-0001.80dbf58934d1adfa40bf.jpg",
+    "static/media/m3m_video.mp4": "/Landing-page/static/media/m3m_video.3fcd2fe8bab30b1df7c4.mp4",
+    "static/media/m3m_landmark_page-0001.jpg": "/Landing-page/static/media/m3m_landmark_page-0001.8722526d51f726959389.jpg",
+    "static/media/vasudev.jpg": "/Landing-page/static/media/vasudev.76bde45ff26ba70bdcb2.jpg",
+    "static/media/technopark.jpg": "/Landing-page/static/media/technopark.269b8e59a31ca40596a2.jpg",
+    "static/media/m3m_entering_noida_page-0001.jpg": "/Landing-page/static/media/m3m_entering_noida_page-0001.29fe563d8e31f67eb87d.jpg",
+    "static/media/m3m_72.jpg": "/Landing-page/static/media/m3m_72.9e07ac7b53e4be92f6ea.jpg",
+    "static/media/whats-app-logo.png": "/Landing-page/static/media/whats-app-logo.9d67bec803b651dec10f.png",
+    "static/media/m3mlogo.webp": "/Landing-page/static/media/m3mlogo.356bf663ab748c153a66.webp",
+    "static/media/phone.svg": "/Landing-page/static/media/phone.c7ed41c153eeded4b5104b736226d88b.svg",
+    "index.html": "/Landing-page/index.html",
+    "main.f3501d9e.css.map": "/Landing-page/static/css/main.f3501d9e.css.map",
+    "main.e2386e80.js.map": "/Landing-page/static/js/main.e2386e80.js.map",
+    "787.8565aea6.chunk.js.map": "/Landing-page/static/js/787.8565aea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3501d9e.css",
+    "static/js/main.e2386e80.js"
+  ]
+}
