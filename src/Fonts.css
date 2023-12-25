@@ -1,0 +1,27 @@
+/* fonts.css */
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo 2&display=swap');
+
+.video-container {
+    position: fixed;
+    top: 50px; /* Adjust the top position as needed */
+    left: 50%; /* Center the video horizontally */
+    transform: translateX(-50%);
+    z-index: 9999; /* Ensure the video stays on top of other content */
+  }
+/* Default styles for larger screens */
+@media (min-width: 768px) {
+    video {
+      width: 80%;
+    }
+  }
+  
+  /* Styles for smaller screens, e.g., mobile devices */
+  @media (max-width: 767px) {
+    video {
+      width: 100%;
+    }
+  }
+    

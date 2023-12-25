@@ -1,0 +1,47 @@
+.title{
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+  }
+
+  .title::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 60px;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  }
+
+  input{
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 2px solid #9b59b6;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+    font-family: nanito sans-serif;
+    margin:  6px 0px;
+  }
+  textarea{
+    height: 85px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 2px solid #9b59b6;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+    font-family: nanito sans-serif;
+    margin:  6px 0px;
+  }
+
+  input:focus{
+    border-color: #9b59b6 !important;
+  }
